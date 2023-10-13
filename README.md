@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tmzq.
+- 👀 I’m interested in Next.js, React, Typescript, GraphQL, and Postgres.
+- 🌱 I’m currently learning Svelte and Rust.
+- 💞️ I’m building Prima Facie in my spare time (B2B SaaS user onboarding & analytics app for Law Firms in Australia). 
+- 📫 You can reach me at glen.e.mcrae@gmail.com
